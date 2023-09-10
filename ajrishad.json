@@ -7,7 +7,7 @@
 		{"title":"HTML", "percentage":"100%"},
 		{"title":"CSS", "percentage":"98%"},
 		{"title":"JavaScript", "percentage":"88%"},
-		{"title":"NodeJS", "percentage":"78%"},
+		{"title":"NodeJS", "percentage":"96%"},
 		{"title":"ReactJS", "percentage":"86%"},
 		{"title":"Python", "percentage":"93%"},
 		{"title":"Django", "percentage":"90%"},
@@ -28,5 +28,9 @@
 			{"platform":"Facebook", "icon":"fa fa-facebook-official","url":"https://facebook.com/aj.rishad"},
 			{"platform":"Twitter", "icon":"fa fa-twitter","url":"https://facebook.com/ajrishad04"}
 		]
-	}
+	},
+	// image gallary
+	"gallary":[
+		{"url":"", "alt":""}
+	]
 }
