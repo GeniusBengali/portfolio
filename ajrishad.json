@@ -25,11 +25,20 @@
 		"number":"+8801880666539",
 		"email":"aj.s.rishad@gmail.com",
 		"social":[
-			{"platform":"Facebook", "icon":"fa fa-facebook-official","url":"https://facebook.com/aj.rishad"},
-			{"platform":"Twitter", "icon":"fa fa-twitter","url":"https://facebook.com/ajrishad04"}
+			{"platform":"Facebook", "icon":"fa fa-facebook-official","url":"https://facebook.com/contact.rishad"},
+			{"platform":"Twitter", "icon":"fa fa-twitter","url":"https://twitter.com/ajrishad04"}
 		]
 	},
-	"gallary":[
-		{"url":"", "alt":""}
+	"pricing":[
+		{
+			"title":"Basic",
+			"services":["Web Design", "3 month support", ""],
+			"price":{
+				"currency":"$",
+				"amount":"5"
+			},
+			"billed":"Per Project",
+			"url":"https://test"
+		}
 	]
 }
