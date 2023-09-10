@@ -18,7 +18,7 @@ While this repository primarily serves as a personal database for my portfolio w
 
 ## About Me
 
-I am [Your Name], a passionate [Your Field] based in [Your Location]. You can learn more about me and my work on my portfolio website: [https://ajrishad.w3spaces.com](https://ajrishad.w3spaces.com).
+I am [AJ Rishad], a passionate [MERN stack web and Android developer]. You can learn more about me and my work on my portfolio website: &#x1F449; [AJ Rishad](https://ajrishad.w3spaces.com).
 
 ## License
 
