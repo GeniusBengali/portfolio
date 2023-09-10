@@ -1,5 +1,6 @@
 {
 	"name":"AJ Rishad",
+	"profile":"",
 	"title":"MERN stack and Android Developer",
 	"description":"Welcome to my corner of the web, where creativity meets technology, and innovation knows no bounds. I'm AJ Rishad, your friendly neighborhood tech enthusiast with a passion for turning ideas into digital reality.",
 	"skills":[
@@ -16,5 +17,13 @@
 		{"title":"jQuery", "percentage":"88%"},
 		{"title":"Bootstrap", "percentage":"100%"},
 		{"title":"TailwindCSS", "percentage":"98%"}
-	]
+	],
+	"location":"River View, West Kadhurkhil, Kadhurkhil - 4366, Boalkhali, Chattogram, Bangladesh",
+	"contact":{
+		"number":"+8801880666539",
+		"email":"aj.s.rishad@gmail.com",
+		"social":[
+			{"platform":"Facebook", "icon":"fa fa-facebook-official","url":"https://facebook.com/aj.rishad"}
+		]
+	}
 }
