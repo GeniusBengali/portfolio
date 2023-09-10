@@ -1,7 +1,7 @@
 {
 	"name":"AJ Rishad",
 	"profile":"https://raw.githubusercontent.com/GeniusBengali/portfolio/main/images/gray-profile.png",
-	"title":"MERN stack and Android Developer",
+	"title":"MERN stack web and android developer",
 	"description":"Welcome to my corner of the web, where creativity meets technology, and innovation knows no bounds. I'm AJ Rishad, your friendly neighborhood tech enthusiast with a passion for turning ideas into digital reality. I'm your go-to guy for all things web and mobile development. From crafting sleek websites that catch eyes to creating mobile apps that make life easier, I've got you covered. When it comes to making the magic happen behind the scenes, I'm your Node.js, Express.js, Django, PHP, and Laravel guru.",
 	"skills":[
 		{"title":"HTML", "percentage":"100%"},
