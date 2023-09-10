@@ -4,17 +4,17 @@
   "description":"Welcome to my corner of the web, where creativity meets technology, and innovation knows no bounds. I'm AJ Rishad, your friendly neighborhood tech enthusiast with a passion for turning ideas into digital reality.",
   "skills":[
     {"title":"HTML", "percentage":"100%"},
-    {"title":"CSS", "percentage":"98%"}
-    {"title":"JavaScript", "percentage":"88%"}
-    {"title":"NodeJS", "percentage":"78%"}
-    {"title":"ReactJS", "percentage":"86%"}
-    {"title":"PHP", "percentage":"82%"}
-    {"title":"Laravel", "percentage":"80%"}
-    {"title":"MySql", "percentage":"80%"}
-    {"title":"Java", "percentage":"90%"}
-    {"title":"Kotlin", "percentage":"90%"}
-    {"title":"jQuery", "percentage":"88%"}
-    {"title":"Bootstrap", "percentage":"100%"}
-    {"title":"TailwindCSS", "percentage":"98%"}
+    {"title":"CSS", "percentage":"98%"},
+    {"title":"JavaScript", "percentage":"88%"},
+    {"title":"NodeJS", "percentage":"78%"},
+    {"title":"ReactJS", "percentage":"86%"},
+    {"title":"PHP", "percentage":"82%"},
+    {"title":"Laravel", "percentage":"80%"},
+    {"title":"MySql", "percentage":"80%"},
+    {"title":"Java", "percentage":"90%"},
+    {"title":"Kotlin", "percentage":"90%"},
+    {"title":"jQuery", "percentage":"88%"},
+    {"title":"Bootstrap", "percentage":"100%"},
+    {"title":"TailwindCSS", "percentage":"98%"},
   ]
 }
