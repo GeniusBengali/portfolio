@@ -20,9 +20,9 @@
 		{"title":"Bootstrap", "percentage":"100%"},
 		{"title":"TailwindCSS", "percentage":"98%"}
 	],
-	"location":"River View, West Kadhurkhil, Kadhurkhil - 4366, Boalkhali, Chattogram, Bangladesh",
+	"location":"Chattogram, Bangladesh",
 	"contact":{
-		"number":"+8801880666539",
+		"number":"+8801572763789",
 		"email":"aj.s.rishad@gmail.com",
 		"social":[
 			{"platform":"Facebook", "icon":"fa fa-facebook-official","url":"https://facebook.com/contact.rishad"},
@@ -32,11 +32,31 @@
 	},
 	"pricing":[
 		{
-			"title":"Basic",
-			"services":["Web Design", "3 month support", ""],
+			"title":"Web Design Basic",
+			"services":["Web Design", "5 Pages", "HTML, CSS, JavaScript", "Delivery in 3 days", "Email Support"],
 			"price":{
 				"currency":"$",
 				"amount":"5"
+			},
+			"billed":"Per Project",
+			"url":"https://test"
+		},
+		{
+			"title":"Web Design Platinum",
+			"services":["Web Design", "15 Pages", "HTML, CSS, JavaScript", "Delivery in 1 week", "Email Support"],
+			"price":{
+				"currency":"$",
+				"amount":"12"
+			},
+			"billed":"Per Project",
+			"url":"https://test"
+		},
+		{
+			"title":"Web Design Premium",
+			"services":["Web Design", "Complete Project", "HTML, CSS, JavaScript", "Depend on project", "Email Support"],
+			"price":{
+				"currency":"$",
+				"amount":"25+"
 			},
 			"billed":"Per Project",
 			"url":"https://test"
